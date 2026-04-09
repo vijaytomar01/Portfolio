@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Vijay Pratap Tomar — Portfolio
 
 A modern, responsive full-stack developer portfolio built with pure HTML, CSS, and JavaScript featuring:
@@ -33,10 +34,9 @@ portfolio/
 
 ## Getting Started
 
-To use this portfolio:
-
-1. Add your profile image as `profile.jpg` in the root directory
-2. Open `index.html` in a web browser to view your portfolio
+1. Clone the repository
+2. Add your profile image as `profile.jpg` in the root directory
+3. Open `index.html` in a web browser
 
 ## Customization
 
@@ -60,3 +60,6 @@ To use this portfolio:
 ---
 
 Built with ♥ by Vijay Pratap Tomar
+=======
+# Portfolio
+>>>>>>> 4cda12ba796d71a8f732eabc2bc5db97397189e9
