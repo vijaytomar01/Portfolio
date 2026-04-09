@@ -33,9 +33,10 @@ portfolio/
 
 ## Getting Started
 
-1. Clone the repository
-2. Add your profile image as `profile.jpg` in the root directory
-3. Open `index.html` in a web browser
+To use this portfolio:
+
+1. Add your profile image as `profile.jpg` in the root directory
+2. Open `index.html` in a web browser to view your portfolio
 
 ## Customization
 
